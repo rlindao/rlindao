@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋 My name is Roberto Andres Lindao Guevara
 
+Estudiante de Ing de Computacion en la Universidad Politecnica Salesiana
+Amante de la Tecnologia, y videojuegos 
+
+Lenguajes de programación que manejo 
+Python , javascript , flutter , html y css 
+
+### Screenshot
+![Image text](https://www.grupolarabida.org/wp-content/uploads/2020/10/Ecuador_UniversidadPolitecnicaSalesiana_UPS_37_.jpg)
+## Technologies
 <!--
 **rlindao/rlindao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

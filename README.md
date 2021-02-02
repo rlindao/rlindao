@@ -30,10 +30,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rlindao&show_icons=true" alt="rlindao" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlindao)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rlindao/rlindao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlindao)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
